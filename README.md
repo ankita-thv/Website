@@ -2,10 +2,14 @@
 ## Barbie Website
 Created a website using HTML & CSS.
 Wesbite hae options like - 
-\n • Home
+• Home
+
 • Characters
+
 • Gallery
+
 • About
+
 • Contact
 
 1. Home : This page contains all the links to other pages on this website (like gallery, contacts etc). It also have two center button leading to YouTube and Wikipedia page of the main content.
