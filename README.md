@@ -2,6 +2,7 @@
 ## Barbie Website
 Created a website using HTML & CSS.
 Wesbite hae options like - 
+
 • Home
 
 • Characters
